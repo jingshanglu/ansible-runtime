@@ -1,0 +1,5 @@
+language: python
+sudo: required
+before_install: sudo pip install ansible
+install: true
+script: true
